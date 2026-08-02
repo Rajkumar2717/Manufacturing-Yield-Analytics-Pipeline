@@ -4,7 +4,8 @@
 # Manufacturing Test Log Parser & Yield Analytics Engine
 
 ## 📌 Overview
-An end-to-end Python data pipeline engineered to ingest, parse, and analyze high-volume parametric test log data from simulated manufacturing runs. This tool performs Exploratory Data Analysis (EDA) to identify yield drop drivers, track component failure patterns, and flag parametric out-of-spec conditions, ultimately exporting clean data to a SQL database for dashboard visualization.
+An end-to-end Python data pipeline engineered to ingest, parse, and analyze high-volume parametric test log data from simulated manufacturing runs. 
+This tool performs Exploratory Data Analysis (EDA) to identify yield drop drivers, track component failure patterns, and flag parametric out-of-spec conditions, ultimately exporting clean data to a SQL database for dashboard visualization.
 
 ## 🚀 Key Features
 * **High-Volume Log Parsing:** Uses Pandas and NumPy to efficiently ingest and clean large datasets (simulated as CSV logs), handling missing or corrupted data entries.

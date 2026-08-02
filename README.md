@@ -1,7 +1,5 @@
 ---
-
 ### **Repository 2: `Manufacturing-Yield-Analytics-Pipeline`**
-
 ```markdown
 # Manufacturing Test Log Parser & Yield Analytics Engine
 
